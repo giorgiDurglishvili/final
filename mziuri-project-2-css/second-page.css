@@ -1,0 +1,139 @@
+.header-png-img{
+    width: 100px;
+    height: 30px;
+}
+.header{
+    border-bottom: 1px solid springgreen;
+}
+/* !slider */
+.second-page-first-carousel-item{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../mziuri-project-2-img/sport-moto-55\ -\ Copy.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+.second-page-second-carousel-item{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(../mziuri-project-2-img/sport-moto-50\ -\ Copy.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+.second-page-content-carousel-big-letter-font{
+    color: var(--main-big-font-color);
+    font-family: var(--big-letter-font);
+    margin: 100px;
+}
+.content-slider-p{
+    color: var(--main-font-color) ;
+    margin-top: -80px;
+}
+.slider-button{
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    border-radius: 3px;
+    margin-left: 150px;
+}
+.slider-button:hover{
+    border-color: springgreen;
+    color: springgreen;
+}
+#contentSliderSlideBox{
+    width: 10px;
+    height: 10px;
+    background-color: springgreen;
+    border-radius: 50%;
+}
+.content-second-part-of-the-page-header{
+    color: var(--main-big-font-color);
+    font-family: var(--big-letter-font);
+}
+.content-cols-serch{
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    color: rgb(255, 255, 255);
+}
+.content-cols-submit{
+    border: springgreen 1px solid;
+    color: springgreen;
+    border-radius: 3px;
+    background: transparent;
+}
+.content-cols-submit:hover{
+    color: white;
+    border-color: white;
+}
+.content-first-col{
+    background-image: url(../mziuri-project-2-img/sport-moto-37.jpeg);
+    height: 300px;
+    background-size: cover;
+}
+.content-second-col{
+    background-image: url(../mziuri-project-2-img/sport-moto-47.jpg);
+    height: 250px;
+    background-size: cover;
+    border-top: 5px solid rgb(37, 37, 41);
+    
+}
+.content-therd-col{
+    background-image: url(../mziuri-project-2-img/dirty-helmet-1.jpg);
+    height: 250px;
+    background-size: cover;
+    border-top: 5px solid rgb(37, 37, 41);
+    border-left: 5px solid rgb(37, 37, 41);
+}
+.content-same-cols:hover{
+    opacity: 0.8;
+}
+.content-cols-p{
+    margin-left: 15px;
+}
+.content-cols-button{
+    border: 1px solid springgreen;
+    color: springgreen;
+    background-color: transparent;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.content-cols-button:hover{
+    color: white;
+    background-color: springgreen;
+    border-color: white;
+}
+.large-input{
+    width: 310px;
+    background: transparent;
+    border-bottom: 1px solid springgreen;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    margin-left: -22px;
+    color: white;
+}
+.big-input{
+    margin-left: -22px;
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    border-bottom: 1px solid springgreen;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    color: white;
+}
+.input-submit{
+    width:px;
+    background: transparent;
+    border: springgreen 1px solid;
+    color: springgreen;
+    border-radius: 3px;
+    background: transparent;
+    margin-left: -22px;
+}
+.input-submit:hover{
+    color: white;
+    border-color: white;
+}

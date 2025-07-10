@@ -1,0 +1,244 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: rgb(0, 0, 0); */
+}
+
+
+/* !slider */
+
+.content-big-letter-font{
+    color: var(--main-big-font-color);
+}
+
+.content-slider{
+    width: 100%;
+    height: 400px;
+}
+.first-carousel-item{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../mziuri-project-2-img/mziuri-project-2-content-carousel-item-one\ -\ Copy.jpeg);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+.second-carousel-item{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../mziuri-project-2-img/mziuri-project-2-content-carousel-item-two\ -\ Copy.jpeg);
+    height: 400px;
+    background-size: cover;
+    width: 100%;
+}
+.content-carousel-big-letter-font{
+    color: var(--main-big-font-color);
+    font-family: var(--big-letter-font);
+    margin: 100px;
+}
+.content-slider-p{
+    color: var(--main-font-color) ;
+    margin-top: -80px;
+}
+.slider-button{
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    border-radius: 3px;
+    margin-left: 150px;
+}
+.slider-button:hover{
+    border-color: springgreen;
+    color: rgb(150, 182, 166);
+}
+#contentSliderSlideBox{
+    width: 10px;
+    height: 10px;
+    background-color: springgreen;
+    border-radius: 50%;
+}
+.header-png-img{
+    width: 100px;
+    height: 30px;
+}
+.header{
+    border-bottom: 1px solid springgreen;
+}
+.first-col{
+    background-image: url(../mziuri-project-2-img/mziuri-project-2-content-first-col-img.jpg);
+}
+.second-col{
+    background-image: url(../mziuri-project-2-img/mziuri-project-2-content-second-col-img.jpeg);
+}
+.therd-col{
+    background-image: url(../mziuri-project-2-img/mziuri-project-2-content-fourth-col-img.jpeg);
+}
+.fourth-col{
+    background-image: url(../mziuri-project-2-img/mziuri-project-2-content-fourth-col-img.jpg);
+}
+.content-first-same-cols{
+    margin-bottom: 50px;
+    width: 300px;
+    height: 250px;
+    border-left: 10px solid rgb(37, 37, 41);
+    border-right: 10px solid rgb(37, 37, 41);
+    border-radius: 3px;
+    background-size: cover;
+    opacity: 0.5;
+}
+.content-first-same-cols:hover{
+    opacity: 1;
+}
+.content-first-col-p{
+    color: var(--main-big-font-color);
+    padding-top: 150px;
+}
+.cols-button{
+    border: 1px solid springgreen;
+    color: springgreen;
+    background-color: transparent;
+    border-radius: 3px;
+}
+.different-content-col-button{
+    margin-top: 25px;
+}
+
+
+/* ! second col */
+
+
+.content-second-part-of-the-page-header{
+    color: var(--main-big-font-color);
+    font-family: var(--big-letter-font);
+}
+.content-second-cols-header{
+    color: var(--main-big-font-color);
+    font-weight: var(--big-letter-font);
+}
+.content-second-cols-p{
+    color: white;
+}
+.content-header-font{
+    color: var(--main-big-font-color);
+    font-family: var(--big-letter-font);
+}
+.content-first-list-fonts{
+    color: var(--main-big-font-color);
+    font-family: var(--big-letter-font);
+}
+.content-first-list-fonts a{
+    text-decoration: none;
+    color: var(--main-big-font-color);
+}
+.content-first-list-fonts:hover{
+    color: white;
+}
+.content-first-list-fonts a:hover{
+    color: white;
+}
+.content-cols-serch{
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+}
+
+/* ! therd part of the paige */
+
+.content-attached-img-box{
+    background: url(../mziuri-project-2-img/enduro-37.jpeg) repeat fixed 100%;
+    border-bottom: 2px solid springgreen;
+    background-size: cover;
+    height: 400px;
+    opacity: 0.7;
+}
+.content-attached-img-box-child-p{
+    color: var(--main-font-color);
+}
+
+.content-attacked-img-box-child-input{
+    width: 20%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(37, 37, 41);
+    color: springgreen;
+    border-bottom: springgreen 1px solid;
+}
+.content-input-submit{
+    background-color: transparent;
+    color: springgreen;
+    border: 1px solid springgreen;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+}
+.content-input-submit:hover{
+    background-color: transparent;
+    color: white;
+    background-color: springgreen;
+}
+/* !therd cols */
+
+.content-therd-cols-header a{
+    color: springgreen;
+    font-family: var(--big-letter-font);
+    text-decoration: none;
+}
+.content-therd-cols-header a:hover{
+    color: white;
+}
+.content-therd-cols-p{
+    color: white;
+}
+.therd-col-img:hover{
+    opacity: 0.8;
+}
+/* !footer */
+
+.footer{
+    width: 100%;
+    height: 450px;
+    background-color: rgb(31, 31, 34);
+    overflow: auto;
+}
+.footer-button{
+    border: springgreen 1px solid;
+    color: springgreen;
+    border-radius: 3px;
+    background: transparent;
+}
+.footer-button:hover{
+    color: white;
+    border-color: white;
+}
+.footer-list-box{
+    padding-top: 55px;
+    list-style: none;
+}
+.footer-list{
+    color: silver;
+    list-style: none;
+}
+.footer-list a{
+    color: silver;
+    text-decoration: none;
+}
+.footer-list a:hover{
+    color: springgreen;
+}
+.footer-therd-box{
+    padding-top: 55px;
+}
+.footer-therd-box a{
+    text-decoration: none;
+    color: silver;
+}
+.footer-therd-box a:hover{
+    color: springgreen;
+}
+.footer-icons{
+    color: silver;
+    font-size: 130%;
+}
+
+.footer-last-icons{
+    padding-left: 10px;
+}
