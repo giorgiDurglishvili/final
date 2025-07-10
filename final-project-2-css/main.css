@@ -17,13 +17,13 @@ body{
     height: 400px;
 }
 .first-carousel-item{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../mziuri-project-2-img/mziuri-project-2-content-carousel-item-one\ -\ Copy.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../final-project-2-img/final-project-2-content-carousel-item-one\ -\ Copy.jpeg);
     background-size: cover;
     width: 100%;
     height: 400px;
 }
 .second-carousel-item{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../mziuri-project-2-img/mziuri-project-2-content-carousel-item-two\ -\ Copy.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../final-project-2-img/final-project-2-content-carousel-item-two\ -\ Copy.jpeg);
     height: 400px;
     background-size: cover;
     width: 100%;
@@ -62,16 +62,16 @@ body{
     border-bottom: 1px solid springgreen;
 }
 .first-col{
-    background-image: url(../mziuri-project-2-img/mziuri-project-2-content-first-col-img.jpg);
+    background-image: url(../final-project-2-img/final-project-2-content-first-col-img.jpg);
 }
 .second-col{
-    background-image: url(../mziuri-project-2-img/mziuri-project-2-content-second-col-img.jpeg);
+    background-image: url(../final-project-2-img/final-project-2-content-second-col-img.jpeg);
 }
 .therd-col{
-    background-image: url(../mziuri-project-2-img/mziuri-project-2-content-fourth-col-img.jpeg);
+    background-image: url(../final-project-2-img/final-project-2-content-fourth-col-img.jpeg);
 }
 .fourth-col{
-    background-image: url(../mziuri-project-2-img/mziuri-project-2-content-fourth-col-img.jpg);
+    background-image: url(../final-project-2-img/final-project-2-content-fourth-col-img.jpg);
 }
 .content-first-same-cols{
     margin-bottom: 50px;
@@ -144,7 +144,7 @@ body{
 /* ! therd part of the paige */
 
 .content-attached-img-box{
-    background: url(../mziuri-project-2-img/enduro-37.jpeg) repeat fixed 100%;
+    background: url(../final-project-2-img/enduro-37.jpeg) repeat fixed 100%;
     border-bottom: 2px solid springgreen;
     background-size: cover;
     height: 400px;
